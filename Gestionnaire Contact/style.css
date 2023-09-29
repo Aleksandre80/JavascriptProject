@@ -1,0 +1,39 @@
+#form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form.hide{
+    display: none;
+}
+
+#retrieve{
+    width: 100%;
+    height: 100%;
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+
+#add{
+    border-radius: 2px;
+    border: 1px solid #ccc;
+}
+
+.btnPerso{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 250px;
+    
+}
+
+.formList{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
